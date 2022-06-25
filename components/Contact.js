@@ -9,7 +9,7 @@ const NavigatorToHome = props => {
     props.navigation.navigate('Home');
 }
 //Home component
-const About = props => {
+const Contact = props => {
 
 
     return (
@@ -19,4 +19,4 @@ const About = props => {
     );
   }
 
-export default About;
+export default Contact;
